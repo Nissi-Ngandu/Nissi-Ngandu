@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @Nissi-Ngandu
-- 👀 I’m interested in music, technology, and cars.
-- 🌱 I’m currently learning Software development
+- 🌱 I’m currently a Software development graduate
 - 💞️ I’m looking to collaborate on any software engineering roles as an intern or a graduate program. 
 - 📫 How to reach me email: nissingandu@icloud.com
-alternatively 19007439@vcconnect.co.za 
+
+-
+-
+-------------------- #GITHUB PROFILE UNDER CONSTRUCTION --------------------
+-
+-
 
 <!---
 Nissi-Ngandu/Nissi-Ngandu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
