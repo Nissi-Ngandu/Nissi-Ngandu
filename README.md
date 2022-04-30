@@ -1,4 +1,4 @@
-- -------------------- #GITHUB PROFILE UNDER CONSTRUCTION --------------------
+--------------------- #GITHUB PROFILE UNDER CONSTRUCTION --------------------
 - 👋 Hi, I’m @Nissi-Ngandu
 - 🌱 I’m currently a Software development graduate
 - 💞️ I’m looking to collaborate on any software engineering roles as an intern or a graduate program. 
