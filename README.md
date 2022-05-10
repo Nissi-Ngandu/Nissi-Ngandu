@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Nissi 😎 
 
-<div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="codinggif.gif">
+<div alignment="center">
+<img height="300" width="700" alt="GIF" alignment="center" src="codinggif.gif">
 </div>
 
 <br>
@@ -13,7 +13,7 @@
 
 ### 😅 I'm a young enthusiastic, lover of tech, Recently graduated and aspiring Software Engineer.
 
-<img height="400" width="500" alt="GIF" align="right" src="Icons/1936.gif">
+<img height="400" width="500" alt="GIF" alignment="right" src="Icons/1936.gif">
 
 <br>
 <br>
