@@ -79,7 +79,7 @@
  </br>
 
 
-<img height="320" width="450" alignment="right" alt="imgconnect" src="Icons/lets-connect.png">
+<img height="320" width="450" alignment="right" alt="imgconnect" src="https://www.pngfind.com/mpng/hJRoowo_lets-connect-logo-png-download-lets-connect-transparent/">
 
 <h3>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to code together just ping me 😉.
@@ -93,7 +93,7 @@ Just click on any of these and connect with me
 
 <!-- email address -->
 <a href="mailto:nissingandu@icloud.com">
- <img src="https://icongr.am/entypo/email.svg?size=101&color=currentColor" alignment=right alt="email" width="50" height="50"/>
+ <img src="https://icongr.am/entypo/email.svg?size=101&color=d4e3fe" alignment=right alt="email" width="50" height="50"/>
 </a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nissi-ngandu/">
