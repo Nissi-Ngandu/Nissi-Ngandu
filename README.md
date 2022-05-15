@@ -13,14 +13,14 @@
 
 ### 😅 I'm a young enthusiastic, lover of tech, Recently graduated and aspiring Software Engineer.
 
-<img height="400" width="500" alt="GIF" alignment="right" src="Icons/1936.gif">
+<img height="400" width="500" alt="GIF" alignment="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 <br>
 <br>
 
 ### <h1>🤓 Learning:</h2> 
 - ✨ Data Structures & Algorithms
-- ✨ Javascript, ASP.NET, Firebase
+- ✨ Javascript, ASP.NET
 - ✨ Ethical Hacking
 - ✨ Electric Guitar
 
@@ -93,23 +93,23 @@ Just click on any of these and connect with me
 
 <!-- email address -->
 <a href="mailto:nissingandu@icloud.com">
- <img src="Icons/Apple_Mail-512.webp" alignment=right alt="email" width="50" height="50"/>
+ <img src="https://icongr.am/entypo/email.svg?size=101&color=currentColor" alignment=right alt="email" width="50" height="50"/>
 </a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nissi-ngandu/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
+   <img src="https://icongr.am/entypo/linkedin-with-circle.svg?size=101&color=00c7fc" alt="linkedin" width="50" height="50"/>
 </a>
 <!-- Twitter -->
 <a href="https://twitter.com/nissi_ng#gh-dark-mode-only/follow-screen">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt=" twitter" width="50" height="50" />
+  <img src="https://icongr.am/entypo/twitter.svg?size=101&color=3a88fe" alt=" twitter" width="50" height="50" />
 </a>
 <!-- Instagram -->
 <a href="https://www.instagram.com/nissi_ngandu/">
-<img src="Icons/instagram.png" alt="IG" width="50" height="50"/>
+<img src="https://icongr.am/entypo/instagram-with-circle.svg?size=101&color=d4e3fe" alt="IG" width="50" height="50"/>
 </a>
 <!-- discord -->
 <a href="https://discord.com/Nissi_Ngandu#2073/">
-<img src="Icons/discord.png" alt="discord" width="50" height="50"/>
+<img src="https://code.iconify.design/2/2.2.1/iconify.min.js"  alt="discord" width="50" height="50"/>
 </a>
 
  </p>
