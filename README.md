@@ -13,14 +13,17 @@
 
 ### 😅 I'm a young enthusiastic, lover of tech, Recently graduated and aspiring Software Engineer.
 
-<img height="400" width="500" alt="GIF" alignment="right" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
+<img height="400" width="500" alt="GIF" alignment="centre" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 
 <br>
 <br>
 
 ### <h1>🤓 Learning:</h2> 
 - ✨ Data Structures & Algorithms
-- ✨ Javascript, ASP.NET
+- ✨ Javascript
+- ✨ react
+- ✨ ASP.NET 
+- ✨ cross-platform development
 - ✨ Ethical Hacking
 - ✨ Electric Guitar
 
