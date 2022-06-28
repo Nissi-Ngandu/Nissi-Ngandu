@@ -110,10 +110,11 @@ Just click on any of these and connect with me
 <a href="https://www.instagram.com/nissi_ngandu/">
 <img src="https://icongr.am/entypo/instagram-with-circle.svg?size=101&color=d4e3fe" alt="IG" width="50" height="50"/>
 </a>
-<!-- discord -->
+<!-- discord 
 <a href="https://discord.com/Nissi_Ngandu#2073/">
 <img src="https://code.iconify.design/2/2.2.1/iconify.min.js"  alt="discord" width="50" height="50"/>
 </a>
+-->
 
  </p>
  
