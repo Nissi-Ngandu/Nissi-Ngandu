@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Nissi 😎 
-<div alignment= "centre">
+<div alignment= center>
 <div alignment="center">
 <img height="300" width="700" alt="GIF" alignment="center" src="codinggif.gif">
 </div>
