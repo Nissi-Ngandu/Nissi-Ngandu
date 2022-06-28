@@ -76,13 +76,15 @@
 </p>
 </br>
 
+<!-- 
 # Contact Me :
 
+-->
 <p>
  </br>
 
 
-<img height="320" width="450" alignment="right" alt="imgconnect" src="[https://images.squarespace-cdn.com/content/v1/59563cc7d1758e94f21a8315/1525523683335-AHTYNEVYI5RL254EF9N5/lets+connect.png?format=750w](https://scontent.fgcj1-1.fna.fbcdn.net/v/t1.6435-9/91373335_109208717392106_2961564075839979520_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kdFXs2_NNogAX91w-fi&_nc_ht=scontent.fgcj1-1.fna&oh=00_AT8I6g-D1pS4wNJ6Fk0Wj5ovpXA5fkTaPBAlB14ZMqhgEQ&oe=62E1F52E)">
+<img height="320" width="450" alignment="right" alt="imgconnect" src="https://scontent.fgcj1-1.fna.fbcdn.net/v/t1.6435-9/91373335_109208717392106_2961564075839979520_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kdFXs2_NNogAX91w-fi&_nc_ht=scontent.fgcj1-1.fna&oh=00_AT8I6g-D1pS4wNJ6Fk0Wj5ovpXA5fkTaPBAlB14ZMqhgEQ&oe=62E1F52E">
 
 <h3>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to code together just ping me 😉.
