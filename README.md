@@ -82,7 +82,7 @@
  </br>
 
 
-<img height="320" width="450" alignment="right" alt="imgconnect" src="https://www.pngfind.com/mpng/hJRoowo_lets-connect-logo-png-download-lets-connect-transparent/">
+<img height="320" width="450" alignment="right" alt="imgconnect" src="https://images.squarespace-cdn.com/content/v1/59563cc7d1758e94f21a8315/1525523683335-AHTYNEVYI5RL254EF9N5/lets+connect.png?format=750w">
 
 <h3>
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to code together just ping me 😉.
