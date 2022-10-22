@@ -19,7 +19,9 @@
 <br>
 
 ### <h1>🤓 Learning:</h2> 
-- ✨ Data Structures & Algorithms
+- ✨ Solutions Architecture
+- ✨ C++ and C Development
+- ✨ SQL
 - ✨ Javascript
 - ✨ react
 - ✨ ASP.NET 
