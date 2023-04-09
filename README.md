@@ -1,128 +1,24 @@
-# 👋 Hello World, I'm Nissi 😎 
-<div alignment= center>
-<div alignment="center">
-<img height="300" width="700" alt="GIF" alignment="center" src="codinggif.gif">
-</div>
-
-<br>
-</br>
-
-<!--ABOUT ME SECTION -->
-
-# About ME 💬 :
-
-### 😅 I'm a young enthusiastic, lover of tech, Recently graduated and aspiring Software Engineer.
-
-<img height="400" width="500" alt="GIF" alignment="centre" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
-
-<br>
-<br>
-
-### <h1>🤓 Learning:</h2> 
-- ✨ Solutions Architecture
-- ✨ C++ and C Development
-- ✨ SQL
-- ✨ Javascript
-- ✨ react
-- ✨ ASP.NET 
-- ✨ cross-platform development
-- ✨ Ethical Hacking
-- ✨ Electric Guitar
-
-<br>
-
-### <h1>🥁 Hobbies :</h1> 
-- ✨ Reading Light Novels
-- ✨ Designing on Adobe XD
-- ✨ Golf
-- ✨ Playing instruments
-
-<br>
-
-### <h1>📕 Latest Blog Posts</h1>
-
-<!-- BLOG-POST-LIST:START -->
-
-➡️ [Check me out on Dev.to to see some of my blogposts](https://dev.to/nissi_ngandu)
-
-<!-- BLOG-POST-LIST:END -->
-
-</br>
-
-# Languages & Tools 👨‍💻 🛠:
-
-</br>
-
-<p alignment="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#"  width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="adobexd" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vs code" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="90" height="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="90" height="50">
-
-<!-- find all icons @ https://devicon.dev -->
-</br>
-
-</p>
-</br>
-
-<!-- 
-# Contact Me :
-
--->
-<p>
- </br>
+# 💫 About Me:
+🔭 I’m currently working on #WeBite<br>👯 I’m looking to collaborate on new frontend/backend projects.<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning Javascript Advanced<br>💬 Ask me about anything<br>⚡ Fun fact : The World's first programmer was a woman
 
 
-<img height="320" width="450" alignment="right" alt="imgconnect" src="https://scontent.fgcj1-1.fna.fbcdn.net/v/t1.6435-9/91373335_109208717392106_2961564075839979520_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=kdFXs2_NNogAX91w-fi&_nc_ht=scontent.fgcj1-1.fna&oh=00_AT8I6g-D1pS4wNJ6Fk0Wj5ovpXA5fkTaPBAlB14ZMqhgEQ&oe=62E1F52E">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nissi_Ngandu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nissi-ngandu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nissi_ng) 
 
-<h3>
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to code together just ping me 😉.
-</h3>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nissi-Ngandu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nissi-Ngandu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nissi-Ngandu&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h4>
-Just click on any of these and connect with me
-</h4>
-<br>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=nissi_ng)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- email address -->
-<a href="mailto:nissingandu@icloud.com">
- <img src="https://icongr.am/entypo/email.svg?size=101&color=d4e3fe" alignment=right alt="email" width="50" height="50"/>
-</a>
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/nissi-ngandu/">
-   <img src="https://icongr.am/entypo/linkedin-with-circle.svg?size=101&color=00c7fc" alt="linkedin" width="50" height="50"/>
-</a>
-<!-- Twitter -->
-<a href="https://twitter.com/nissi_ng#gh-dark-mode-only/follow-screen">
-  <img src="https://icongr.am/entypo/twitter.svg?size=101&color=3a88fe" alt=" twitter" width="50" height="50" />
-</a>
-<!-- Instagram -->
-<a href="https://www.instagram.com/nissi_ngandu/">
-<img src="https://icongr.am/entypo/instagram-with-circle.svg?size=101&color=d4e3fe" alt="IG" width="50" height="50"/>
-</a>
-<!-- discord 
-<a href="https://discord.com/Nissi_Ngandu#2073/">
-<img src="https://code.iconify.design/2/2.2.1/iconify.min.js"  alt="discord" width="50" height="50"/>
-</a>
--->
+---
+[![](https://visitcount.itsvg.in/api?id=Nissi-Ngandu&icon=0&color=0)](https://visitcount.itsvg.in)
 
- </p>
- 
-</br>
-</div>
-
-*************
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
