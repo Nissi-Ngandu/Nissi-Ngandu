@@ -1,5 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on #WeBite<br>👯 I’m looking to collaborate on new frontend/backend projects.<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning Javascript Advanced<br>💬 Ask me about anything<br>⚡ Fun fact : The World's first programmer was a woman
+💫 About Me
+
+🚀 Software Developer (2+ years experience) passionate about building meaningful, practical software.
+🔥 Driven by innovation, growth, and excellence — both technically and spiritually.
+🌍 Aspiring entrepreneur with a heart to impact people and build solutions that matter.
+
+💻 What I Do
+
+Build backend and frontend applications with clean, scalable architecture.
+
+Explore ideas and refine concepts into real, usable products.
+
+Love learning, teaching, and helping other devs grow.
+
+🤝 Collaboration
+
+Open to frontend or backend collabs.
+
+Always keen to learn from others and contribute where I can.
+
+🌱 Currently Learning
+
+Advanced JavaScript and strengthening full-stack skills (ASP.NET, APIs, SQL, cloud fundamentals).
+
+💬 Ask Me About
+
+Backend development, .NET, architecture, and practical solution design.
+
+Turning ideas into real products.
+
+Bible study, leadership, and personal growth.
+
+⚡ Fun Fact
+
+The world’s first programmer was Ada Lovelace — a visionary pioneer ahead of her time.
 
 
 ## 🌐 Socials:
