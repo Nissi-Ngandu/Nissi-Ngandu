@@ -1,6 +1,6 @@
 💫 About Me
 
-🚀 Software Developer (2+ years experience) passionate about building meaningful, practical software.
+🚀 Software Developer (3+ years experience) passionate about building meaningful, practical software.
 🔥 Driven by innovation, growth, and excellence — both technically and spiritually.
 🌍 Aspiring entrepreneur with a heart to impact people and build solutions that matter.
 
